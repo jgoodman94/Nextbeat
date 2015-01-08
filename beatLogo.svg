@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<svg width="639.9999999999999" height="192" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="194" width="642" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="#3acc4c" id="svg_1" fill="none" stroke-linecap="round" stroke-width="5">
+   <line stroke="null" y2="99" x1="-16.833374" x2="257.445335" y1="98" id="svg_3"/>
+   <line stroke="null" y2="72" x1="257.445335" x2="270.374297" y1="99" id="svg_4"/>
+   <line stroke="null" y2="185" x1="270.374297" x2="301.773207" y1="72" id="svg_5"/>
+   <line stroke="null" y2="7" x1="301.773207" x2="327.631132" y1="185" id="svg_6"/>
+   <line stroke="null" y2="117" x1="327.631132" x2="346.101079" y1="7" id="svg_7"/>
+   <line stroke="null" y2="98.666668" x1="365.00819" x2="656.833348" y1="98.666668" id="svg_8"/>
+   <line stroke="null" x1="347.948073" y1="116" stroke-dasharray="null" x2="364.571025" y2="99" id="svg_9"/>
+  </g>
+ </g>
+</svg>
